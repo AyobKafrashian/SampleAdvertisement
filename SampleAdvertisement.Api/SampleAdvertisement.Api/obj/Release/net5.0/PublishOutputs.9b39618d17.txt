@@ -1,0 +1,15 @@
+C:\Users\Omega\Desktop\Desktop\SampleAdvertisement Server\SampleAdvertisement.Api\SampleAdvertisement.Api\obj\Release\net5.0\PubTmp\Out\SampleAdvertisement.Api.exe
+C:\Users\Omega\Desktop\Desktop\SampleAdvertisement Server\SampleAdvertisement.Api\SampleAdvertisement.Api\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Omega\Desktop\Desktop\SampleAdvertisement Server\SampleAdvertisement.Api\SampleAdvertisement.Api\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\Omega\Desktop\Desktop\SampleAdvertisement Server\SampleAdvertisement.Api\SampleAdvertisement.Api\obj\Release\net5.0\PubTmp\Out\SampleAdvertisement.Api.dll
+C:\Users\Omega\Desktop\Desktop\SampleAdvertisement Server\SampleAdvertisement.Api\SampleAdvertisement.Api\obj\Release\net5.0\PubTmp\Out\SampleAdvertisement.Api.deps.json
+C:\Users\Omega\Desktop\Desktop\SampleAdvertisement Server\SampleAdvertisement.Api\SampleAdvertisement.Api\obj\Release\net5.0\PubTmp\Out\SampleAdvertisement.Api.runtimeconfig.json
+C:\Users\Omega\Desktop\Desktop\SampleAdvertisement Server\SampleAdvertisement.Api\SampleAdvertisement.Api\obj\Release\net5.0\PubTmp\Out\SampleAdvertisement.Api.pdb
+C:\Users\Omega\Desktop\Desktop\SampleAdvertisement Server\SampleAdvertisement.Api\SampleAdvertisement.Api\obj\Release\net5.0\PubTmp\Out\HtmlAgilityPack.dll
+C:\Users\Omega\Desktop\Desktop\SampleAdvertisement Server\SampleAdvertisement.Api\SampleAdvertisement.Api\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Omega\Desktop\Desktop\SampleAdvertisement Server\SampleAdvertisement.Api\SampleAdvertisement.Api\obj\Release\net5.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\Omega\Desktop\Desktop\SampleAdvertisement Server\SampleAdvertisement.Api\SampleAdvertisement.Api\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Omega\Desktop\Desktop\SampleAdvertisement Server\SampleAdvertisement.Api\SampleAdvertisement.Api\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Omega\Desktop\Desktop\SampleAdvertisement Server\SampleAdvertisement.Api\SampleAdvertisement.Api\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Omega\Desktop\Desktop\SampleAdvertisement Server\SampleAdvertisement.Api\SampleAdvertisement.Api\obj\Release\net5.0\PubTmp\Out\WebCrawling.Service.dll
+C:\Users\Omega\Desktop\Desktop\SampleAdvertisement Server\SampleAdvertisement.Api\SampleAdvertisement.Api\obj\Release\net5.0\PubTmp\Out\WebCrawling.Service.pdb
