@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Omega\Desktop\AdvertisementPublish</_PublishTargetUrl>
+    <History>True|2023-03-05T11:15:40.5903444Z;True|2023-03-05T13:34:28.4390343+03:30;</History>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,12 @@
+C:\Users\Omega\Desktop\Desktop\SampleAdvertisement Server\SampleAdvertisement.Api\WebCrawling.Service\obj\Debug\net5.0\WebCrawling.Service.csproj.AssemblyReference.cache
+C:\Users\Omega\Desktop\Desktop\SampleAdvertisement Server\SampleAdvertisement.Api\WebCrawling.Service\obj\Debug\net5.0\WebCrawling.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omega\Desktop\Desktop\SampleAdvertisement Server\SampleAdvertisement.Api\WebCrawling.Service\obj\Debug\net5.0\WebCrawling.Service.AssemblyInfoInputs.cache
+C:\Users\Omega\Desktop\Desktop\SampleAdvertisement Server\SampleAdvertisement.Api\WebCrawling.Service\obj\Debug\net5.0\WebCrawling.Service.AssemblyInfo.cs
+C:\Users\Omega\Desktop\Desktop\SampleAdvertisement Server\SampleAdvertisement.Api\WebCrawling.Service\obj\Debug\net5.0\WebCrawling.Service.csproj.CoreCompileInputs.cache
+C:\Users\Omega\Desktop\Desktop\SampleAdvertisement Server\SampleAdvertisement.Api\WebCrawling.Service\bin\Debug\net5.0\WebCrawling.Service.deps.json
+C:\Users\Omega\Desktop\Desktop\SampleAdvertisement Server\SampleAdvertisement.Api\WebCrawling.Service\bin\Debug\net5.0\WebCrawling.Service.dll
+C:\Users\Omega\Desktop\Desktop\SampleAdvertisement Server\SampleAdvertisement.Api\WebCrawling.Service\bin\Debug\net5.0\ref\WebCrawling.Service.dll
+C:\Users\Omega\Desktop\Desktop\SampleAdvertisement Server\SampleAdvertisement.Api\WebCrawling.Service\bin\Debug\net5.0\WebCrawling.Service.pdb
+C:\Users\Omega\Desktop\Desktop\SampleAdvertisement Server\SampleAdvertisement.Api\WebCrawling.Service\obj\Debug\net5.0\WebCrawling.Service.dll
+C:\Users\Omega\Desktop\Desktop\SampleAdvertisement Server\SampleAdvertisement.Api\WebCrawling.Service\obj\Debug\net5.0\ref\WebCrawling.Service.dll
+C:\Users\Omega\Desktop\Desktop\SampleAdvertisement Server\SampleAdvertisement.Api\WebCrawling.Service\obj\Debug\net5.0\WebCrawling.Service.pdb
