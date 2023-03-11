@@ -40,11 +40,15 @@ namespace SampleAdvertisement.Api.Controllers
         #endregion
 
         [HttpGet]
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string? s)
         {
             try
             {
+                if (s != null)
+                    this._settingDivarUrls.SiteAddress += $"?q={s}";
+
                 Uri urlDivarReq = new Uri(this._settingDivarUrls.SiteAddress);
+
                 List<DataCrawlerResponse> result = await _crawler.DivarSiteCrawl(urlDivarReq, this._settingDivarUrls.HtmlTag, this._settingDivarUrls.HtmlClassName);
 
                 return Ok(new { data = result, statusCode = 200 });

@@ -1,4 +1,6 @@
-﻿namespace SampleAdvertisement.Api.Settings
+﻿using Microsoft.Extensions.Configuration;
+
+namespace SampleAdvertisement.Api.Settings
 {
     public class CrawlingDivarSettings
     {

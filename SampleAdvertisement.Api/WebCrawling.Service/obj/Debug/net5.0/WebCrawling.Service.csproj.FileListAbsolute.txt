@@ -21,3 +21,4 @@ C:\Users\Omega\Desktop\Desktop\SampleAdvertisement Server\SampleAdvertisement\Sa
 C:\Users\Omega\Desktop\Desktop\SampleAdvertisement Server\SampleAdvertisement\SampleAdvertisement.Api\WebCrawling.Service\obj\Debug\net5.0\WebCrawling.Service.dll
 C:\Users\Omega\Desktop\Desktop\SampleAdvertisement Server\SampleAdvertisement\SampleAdvertisement.Api\WebCrawling.Service\obj\Debug\net5.0\ref\WebCrawling.Service.dll
 C:\Users\Omega\Desktop\Desktop\SampleAdvertisement Server\SampleAdvertisement\SampleAdvertisement.Api\WebCrawling.Service\obj\Debug\net5.0\WebCrawling.Service.pdb
+C:\Users\Omega\Desktop\Desktop\SampleAdvertisement Server\SampleAdvertisement\SampleAdvertisement.Api\WebCrawling.Service\obj\Debug\net5.0\WebCrawling.Service.csproj.AssemblyReference.cache
