@@ -1,7 +1,6 @@
-# SampleAdvertisement!
 
 <h2>Demo version of App</h2>
-<!-- <img width=300 height=500 src="https://user-images.githubusercontent.com/71903395/222960740-10bbc0f9-2e36-4933-953e-06a6858d47e6.jpg"/> -->
+
 <p align="center">
     <img src="https://user-images.githubusercontent.com/71903395/224537547-c0aedd30-a572-4da4-8868-5cd69fe18b9b.png" width="150" alt="logo" />
 </p>
@@ -47,6 +46,20 @@ flutter pub get
 ```
 
 <br />
+
+<div align="center"  width="700px"  height="400px">
+
+<div  width="200px" > 
+
+ <img width=300 height=400 src="https://user-images.githubusercontent.com/71903395/224539884-90374de5-3993-4ef7-92b6-c2ffdb2d1338.png"/> 
+</div>
+
+<div width="200px" > 
+
+ <img  width=300 height=300 src="https://user-images.githubusercontent.com/71903395/224539929-5718eca9-1b8d-4d36-982d-5beb6ef2533e.gif"/> 
+ </div>
+</div>
+
 
 
 
