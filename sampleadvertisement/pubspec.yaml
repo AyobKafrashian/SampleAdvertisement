@@ -36,6 +36,7 @@ dependencies:
   get: ^4.6.5
   http: ^0.13.5
   url_launcher: ^6.1.8
+  flutter_launcher_icons: ^0.11.0
 
 dev_dependencies:
   flutter_test:
@@ -62,8 +63,29 @@ flutter:
   assets:
     - assets/images/divar.png
     - assets/images/sheypoor.png
-  #   - images/a_dot_ham.jpeg
+    - assets/images/house.png
+    - assets/images/house1.png
+    - assets/images/house2.png
 
+  #   - images/a_dot_ham.jpeg
+flutter_icons:
+  #android: "launcher_icon"
+  android: true
+  ios: true
+  image_path: "assets/images/logo.png"
+  min_sdk_android: 21 # android min sdk min:16, default 21
+  web:
+    generate: true
+    image_path: "assets/images/logo.png"
+    background_color: "#hexcode"
+    theme_color: "#hexcode"
+  windows:
+    generate: true
+    image_path: "assets/images/logo.png"
+    icon_size: 48 # min:48, max:256, default: 48
+  macos:
+    generate: true
+    image_path: "assets/images/logo.png"
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
 
