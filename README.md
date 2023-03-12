@@ -47,16 +47,17 @@ flutter pub get
 
 <br />
 
-<div style="display: flex;">
-  <div style="float: left;">
-    <img width="300" height="400" src="https://user-images.githubusercontent.com/71903395/224539884-90374de5-3993-4ef7-92b6-c2ffdb2d1338.png"/>
-  </div>
-  <div style="float: left;">
-    <img width="300" height="300" src="https://user-images.githubusercontent.com/71903395/224539929-5718eca9-1b8d-4d36-982d-5beb6ef2533e.gif"/>
-  </div>
+
+<div style="display: flex;
+  justify-content: center;
+" align="center">
+  <img style=" width: 200px;
+  height: 400px;margin-left:10px;
+  margin: 10px;" src="https://user-images.githubusercontent.com/71903395/224539884-90374de5-3993-4ef7-92b6-c2ffdb2d1338.png"/> 
+  <img  style=" width: 200px;
+  height: 300px;
+  margin: 10px;"  src="https://user-images.githubusercontent.com/71903395/224539929-5718eca9-1b8d-4d36-982d-5beb6ef2533e.gif"/> 
 </div>
-
-
 
 
 ## Supported OS
@@ -64,3 +65,4 @@ flutter pub get
 - ios
 - web
 - Windows
+
