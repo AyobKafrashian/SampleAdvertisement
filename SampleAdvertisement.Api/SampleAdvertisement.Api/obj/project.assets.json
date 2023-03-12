@@ -5,10 +5,14 @@
       "HtmlAgilityPack/1.11.46": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/HtmlAgilityPack.dll": {}
+          "lib/netstandard2.0/HtmlAgilityPack.dll": {
+            "related": ".deps.json;.pdb;.xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/HtmlAgilityPack.dll": {}
+          "lib/netstandard2.0/HtmlAgilityPack.dll": {
+            "related": ".deps.json;.pdb;.xml"
+          }
         }
       },
       "Microsoft.Extensions.ApiDescription.Server/3.0.0": {
@@ -25,19 +29,27 @@
       "Microsoft.OpenApi/1.2.3": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Microsoft.OpenApi.dll": {}
+          "lib/netstandard2.0/Microsoft.OpenApi.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/Microsoft.OpenApi.dll": {}
+          "lib/netstandard2.0/Microsoft.OpenApi.dll": {
+            "related": ".pdb;.xml"
+          }
         }
       },
       "Newtonsoft.Json/13.0.2": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Swashbuckle.AspNetCore/5.6.3": {
@@ -58,10 +70,14 @@
           "Microsoft.OpenApi": "1.2.3"
         },
         "compile": {
-          "lib/netcoreapp3.0/Swashbuckle.AspNetCore.Swagger.dll": {}
+          "lib/netcoreapp3.0/Swashbuckle.AspNetCore.Swagger.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "runtime": {
-          "lib/netcoreapp3.0/Swashbuckle.AspNetCore.Swagger.dll": {}
+          "lib/netcoreapp3.0/Swashbuckle.AspNetCore.Swagger.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
@@ -73,10 +89,14 @@
           "Swashbuckle.AspNetCore.Swagger": "5.6.3"
         },
         "compile": {
-          "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {}
+          "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "runtime": {
-          "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {}
+          "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
@@ -85,10 +105,14 @@
       "Swashbuckle.AspNetCore.SwaggerUI/5.6.3": {
         "type": "package",
         "compile": {
-          "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {}
+          "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "runtime": {
-          "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {}
+          "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
@@ -309,19 +333,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Omega\\.nuget\\packages\\": {}
+    "C:\\Users\\Ayob\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Omega\\Desktop\\Desktop\\SampleAdvertisement Server\\SampleAdvertisement\\SampleAdvertisement.Api\\SampleAdvertisement.Api\\SampleAdvertisement.Api.csproj",
+      "projectUniqueName": "F:\\Project\\SampleAdvertisement\\SampleAdvertisement.Api\\SampleAdvertisement.Api\\SampleAdvertisement.Api.csproj",
       "projectName": "SampleAdvertisement.Api",
-      "projectPath": "C:\\Users\\Omega\\Desktop\\Desktop\\SampleAdvertisement Server\\SampleAdvertisement\\SampleAdvertisement.Api\\SampleAdvertisement.Api\\SampleAdvertisement.Api.csproj",
-      "packagesPath": "C:\\Users\\Omega\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Omega\\Desktop\\Desktop\\SampleAdvertisement Server\\SampleAdvertisement\\SampleAdvertisement.Api\\SampleAdvertisement.Api\\obj\\",
+      "projectPath": "F:\\Project\\SampleAdvertisement\\SampleAdvertisement.Api\\SampleAdvertisement.Api\\SampleAdvertisement.Api.csproj",
+      "packagesPath": "C:\\Users\\Ayob\\.nuget\\packages\\",
+      "outputPath": "F:\\Project\\SampleAdvertisement\\SampleAdvertisement.Api\\SampleAdvertisement.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Omega\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ayob\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -335,8 +359,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Omega\\Desktop\\Desktop\\SampleAdvertisement Server\\SampleAdvertisement\\SampleAdvertisement.Api\\WebCrawling.Service\\WebCrawling.Service.csproj": {
-              "projectPath": "C:\\Users\\Omega\\Desktop\\Desktop\\SampleAdvertisement Server\\SampleAdvertisement\\SampleAdvertisement.Api\\WebCrawling.Service\\WebCrawling.Service.csproj"
+            "F:\\Project\\SampleAdvertisement\\SampleAdvertisement.Api\\WebCrawling.Service\\WebCrawling.Service.csproj": {
+              "projectPath": "F:\\Project\\SampleAdvertisement\\SampleAdvertisement.Api\\WebCrawling.Service\\WebCrawling.Service.csproj"
             }
           }
         }
@@ -362,7 +386,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -374,7 +399,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

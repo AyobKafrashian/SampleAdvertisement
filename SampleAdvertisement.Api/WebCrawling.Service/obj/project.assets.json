@@ -5,19 +5,27 @@
       "HtmlAgilityPack/1.11.46": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/HtmlAgilityPack.dll": {}
+          "lib/netstandard2.0/HtmlAgilityPack.dll": {
+            "related": ".deps.json;.pdb;.xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/HtmlAgilityPack.dll": {}
+          "lib/netstandard2.0/HtmlAgilityPack.dll": {
+            "related": ".deps.json;.pdb;.xml"
+          }
         }
       },
       "Newtonsoft.Json/13.0.2": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
         }
       }
     }
@@ -109,19 +117,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Omega\\.nuget\\packages\\": {}
+    "C:\\Users\\Ayob\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Omega\\Desktop\\Desktop\\SampleAdvertisement Server\\SampleAdvertisement\\SampleAdvertisement.Api\\WebCrawling.Service\\WebCrawling.Service.csproj",
+      "projectUniqueName": "F:\\Project\\SampleAdvertisement\\SampleAdvertisement.Api\\WebCrawling.Service\\WebCrawling.Service.csproj",
       "projectName": "WebCrawling.Service",
-      "projectPath": "C:\\Users\\Omega\\Desktop\\Desktop\\SampleAdvertisement Server\\SampleAdvertisement\\SampleAdvertisement.Api\\WebCrawling.Service\\WebCrawling.Service.csproj",
-      "packagesPath": "C:\\Users\\Omega\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Omega\\Desktop\\Desktop\\SampleAdvertisement Server\\SampleAdvertisement\\SampleAdvertisement.Api\\WebCrawling.Service\\obj\\",
+      "projectPath": "F:\\Project\\SampleAdvertisement\\SampleAdvertisement.Api\\WebCrawling.Service\\WebCrawling.Service.csproj",
+      "packagesPath": "C:\\Users\\Ayob\\.nuget\\packages\\",
+      "outputPath": "F:\\Project\\SampleAdvertisement\\SampleAdvertisement.Api\\WebCrawling.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Omega\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ayob\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -162,7 +170,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -171,8 +180,17 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU3025",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Newtonsoft.Json 13.0.2' from source 'https://api.nuget.org/v3/index.json': The author primary signature's timestamp signing certificate is not yet valid.",
+      "libraryId": "Newtonsoft.Json"
+    }
+  ]
 }

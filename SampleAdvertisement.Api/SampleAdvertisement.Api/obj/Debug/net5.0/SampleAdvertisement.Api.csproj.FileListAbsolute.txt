@@ -64,3 +64,41 @@ C:\Users\Omega\Desktop\Desktop\SampleAdvertisement Server\SampleAdvertisement\Sa
 C:\Users\Omega\Desktop\Desktop\SampleAdvertisement Server\SampleAdvertisement\SampleAdvertisement.Api\SampleAdvertisement.Api\obj\Debug\net5.0\ref\SampleAdvertisement.Api.dll
 C:\Users\Omega\Desktop\Desktop\SampleAdvertisement Server\SampleAdvertisement\SampleAdvertisement.Api\SampleAdvertisement.Api\obj\Debug\net5.0\SampleAdvertisement.Api.pdb
 C:\Users\Omega\Desktop\Desktop\SampleAdvertisement Server\SampleAdvertisement\SampleAdvertisement.Api\SampleAdvertisement.Api\obj\Debug\net5.0\SampleAdvertisement.Api.genruntimeconfig.cache
+F:\Project\SampleAdvertisement\SampleAdvertisement.Api\SampleAdvertisement.Api\bin\Debug\net5.0\appsettings.Development.json
+F:\Project\SampleAdvertisement\SampleAdvertisement.Api\SampleAdvertisement.Api\bin\Debug\net5.0\appsettings.json
+F:\Project\SampleAdvertisement\SampleAdvertisement.Api\SampleAdvertisement.Api\bin\Debug\net5.0\SampleAdvertisement.Api.StaticWebAssets.xml
+F:\Project\SampleAdvertisement\SampleAdvertisement.Api\SampleAdvertisement.Api\bin\Debug\net5.0\SampleAdvertisement.Api.exe
+F:\Project\SampleAdvertisement\SampleAdvertisement.Api\SampleAdvertisement.Api\bin\Debug\net5.0\SampleAdvertisement.Api.deps.json
+F:\Project\SampleAdvertisement\SampleAdvertisement.Api\SampleAdvertisement.Api\bin\Debug\net5.0\SampleAdvertisement.Api.runtimeconfig.json
+F:\Project\SampleAdvertisement\SampleAdvertisement.Api\SampleAdvertisement.Api\bin\Debug\net5.0\SampleAdvertisement.Api.runtimeconfig.dev.json
+F:\Project\SampleAdvertisement\SampleAdvertisement.Api\SampleAdvertisement.Api\bin\Debug\net5.0\SampleAdvertisement.Api.dll
+F:\Project\SampleAdvertisement\SampleAdvertisement.Api\SampleAdvertisement.Api\bin\Debug\net5.0\SampleAdvertisement.Api.pdb
+F:\Project\SampleAdvertisement\SampleAdvertisement.Api\SampleAdvertisement.Api\bin\Debug\net5.0\HtmlAgilityPack.dll
+F:\Project\SampleAdvertisement\SampleAdvertisement.Api\SampleAdvertisement.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\Project\SampleAdvertisement\SampleAdvertisement.Api\SampleAdvertisement.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Project\SampleAdvertisement\SampleAdvertisement.Api\SampleAdvertisement.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Project\SampleAdvertisement\SampleAdvertisement.Api\SampleAdvertisement.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Project\SampleAdvertisement\SampleAdvertisement.Api\SampleAdvertisement.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Project\SampleAdvertisement\SampleAdvertisement.Api\SampleAdvertisement.Api\bin\Debug\net5.0\WebCrawling.Service.dll
+F:\Project\SampleAdvertisement\SampleAdvertisement.Api\SampleAdvertisement.Api\bin\Debug\net5.0\WebCrawling.Service.pdb
+F:\Project\SampleAdvertisement\SampleAdvertisement.Api\SampleAdvertisement.Api\obj\Debug\net5.0\SampleAdvertisement.Api.csproj.AssemblyReference.cache
+F:\Project\SampleAdvertisement\SampleAdvertisement.Api\SampleAdvertisement.Api\obj\Debug\net5.0\SampleAdvertisement.Api.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\SampleAdvertisement\SampleAdvertisement.Api\SampleAdvertisement.Api\obj\Debug\net5.0\SampleAdvertisement.Api.AssemblyInfoInputs.cache
+F:\Project\SampleAdvertisement\SampleAdvertisement.Api\SampleAdvertisement.Api\obj\Debug\net5.0\SampleAdvertisement.Api.AssemblyInfo.cs
+F:\Project\SampleAdvertisement\SampleAdvertisement.Api\SampleAdvertisement.Api\obj\Debug\net5.0\SampleAdvertisement.Api.csproj.CoreCompileInputs.cache
+F:\Project\SampleAdvertisement\SampleAdvertisement.Api\SampleAdvertisement.Api\obj\Debug\net5.0\SampleAdvertisement.Api.MvcApplicationPartsAssemblyInfo.cs
+F:\Project\SampleAdvertisement\SampleAdvertisement.Api\SampleAdvertisement.Api\obj\Debug\net5.0\SampleAdvertisement.Api.MvcApplicationPartsAssemblyInfo.cache
+F:\Project\SampleAdvertisement\SampleAdvertisement.Api\SampleAdvertisement.Api\obj\Debug\net5.0\scopedcss\bundle\SampleAdvertisement.Api.styles.css
+F:\Project\SampleAdvertisement\SampleAdvertisement.Api\SampleAdvertisement.Api\obj\Debug\net5.0\staticwebassets\SampleAdvertisement.Api.StaticWebAssets.Manifest.cache
+F:\Project\SampleAdvertisement\SampleAdvertisement.Api\SampleAdvertisement.Api\obj\Debug\net5.0\staticwebassets\SampleAdvertisement.Api.StaticWebAssets.Pack.cache
+F:\Project\SampleAdvertisement\SampleAdvertisement.Api\SampleAdvertisement.Api\obj\Debug\net5.0\staticwebassets\msbuild.SampleAdvertisement.Api.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Project\SampleAdvertisement\SampleAdvertisement.Api\SampleAdvertisement.Api\obj\Debug\net5.0\staticwebassets\msbuild.build.SampleAdvertisement.Api.props
+F:\Project\SampleAdvertisement\SampleAdvertisement.Api\SampleAdvertisement.Api\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.SampleAdvertisement.Api.props
+F:\Project\SampleAdvertisement\SampleAdvertisement.Api\SampleAdvertisement.Api\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.SampleAdvertisement.Api.props
+F:\Project\SampleAdvertisement\SampleAdvertisement.Api\SampleAdvertisement.Api\obj\Debug\net5.0\SampleAdvertisement.Api.RazorTargetAssemblyInfo.cache
+F:\Project\SampleAdvertisement\SampleAdvertisement.Api\SampleAdvertisement.Api\obj\Debug\net5.0\SampleAdvertisement.Api.csproj.CopyComplete
+F:\Project\SampleAdvertisement\SampleAdvertisement.Api\SampleAdvertisement.Api\obj\Debug\net5.0\SampleAdvertisement.Api.dll
+F:\Project\SampleAdvertisement\SampleAdvertisement.Api\SampleAdvertisement.Api\obj\Debug\net5.0\refint\SampleAdvertisement.Api.dll
+F:\Project\SampleAdvertisement\SampleAdvertisement.Api\SampleAdvertisement.Api\obj\Debug\net5.0\SampleAdvertisement.Api.pdb
+F:\Project\SampleAdvertisement\SampleAdvertisement.Api\SampleAdvertisement.Api\obj\Debug\net5.0\SampleAdvertisement.Api.genruntimeconfig.cache
+F:\Project\SampleAdvertisement\SampleAdvertisement.Api\SampleAdvertisement.Api\obj\Debug\net5.0\ref\SampleAdvertisement.Api.dll

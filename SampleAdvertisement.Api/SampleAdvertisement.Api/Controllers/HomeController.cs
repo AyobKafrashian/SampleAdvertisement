@@ -51,6 +51,9 @@ namespace SampleAdvertisement.Api.Controllers
 
                 List<DataCrawlerResponse> result = await _crawler.DivarSiteCrawl(urlDivarReq, this._settingDivarUrls.HtmlTag, this._settingDivarUrls.HtmlClassName);
 
+                if (s != null)
+                    result.RemoveAt(result.Count - 1);
+
                 return Ok(new { data = result, statusCode = 200 });
             }
             catch (Exception ex)

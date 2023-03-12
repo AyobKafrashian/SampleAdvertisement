@@ -22,3 +22,15 @@ C:\Users\Omega\Desktop\Desktop\SampleAdvertisement Server\SampleAdvertisement\Sa
 C:\Users\Omega\Desktop\Desktop\SampleAdvertisement Server\SampleAdvertisement\SampleAdvertisement.Api\WebCrawling.Service\obj\Debug\net5.0\ref\WebCrawling.Service.dll
 C:\Users\Omega\Desktop\Desktop\SampleAdvertisement Server\SampleAdvertisement\SampleAdvertisement.Api\WebCrawling.Service\obj\Debug\net5.0\WebCrawling.Service.pdb
 C:\Users\Omega\Desktop\Desktop\SampleAdvertisement Server\SampleAdvertisement\SampleAdvertisement.Api\WebCrawling.Service\obj\Debug\net5.0\WebCrawling.Service.csproj.AssemblyReference.cache
+F:\Project\SampleAdvertisement\SampleAdvertisement.Api\WebCrawling.Service\bin\Debug\net5.0\WebCrawling.Service.deps.json
+F:\Project\SampleAdvertisement\SampleAdvertisement.Api\WebCrawling.Service\bin\Debug\net5.0\WebCrawling.Service.dll
+F:\Project\SampleAdvertisement\SampleAdvertisement.Api\WebCrawling.Service\bin\Debug\net5.0\WebCrawling.Service.pdb
+F:\Project\SampleAdvertisement\SampleAdvertisement.Api\WebCrawling.Service\obj\Debug\net5.0\WebCrawling.Service.csproj.AssemblyReference.cache
+F:\Project\SampleAdvertisement\SampleAdvertisement.Api\WebCrawling.Service\obj\Debug\net5.0\WebCrawling.Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\SampleAdvertisement\SampleAdvertisement.Api\WebCrawling.Service\obj\Debug\net5.0\WebCrawling.Service.AssemblyInfoInputs.cache
+F:\Project\SampleAdvertisement\SampleAdvertisement.Api\WebCrawling.Service\obj\Debug\net5.0\WebCrawling.Service.AssemblyInfo.cs
+F:\Project\SampleAdvertisement\SampleAdvertisement.Api\WebCrawling.Service\obj\Debug\net5.0\WebCrawling.Service.csproj.CoreCompileInputs.cache
+F:\Project\SampleAdvertisement\SampleAdvertisement.Api\WebCrawling.Service\obj\Debug\net5.0\WebCrawling.Service.dll
+F:\Project\SampleAdvertisement\SampleAdvertisement.Api\WebCrawling.Service\obj\Debug\net5.0\refint\WebCrawling.Service.dll
+F:\Project\SampleAdvertisement\SampleAdvertisement.Api\WebCrawling.Service\obj\Debug\net5.0\WebCrawling.Service.pdb
+F:\Project\SampleAdvertisement\SampleAdvertisement.Api\WebCrawling.Service\obj\Debug\net5.0\ref\WebCrawling.Service.dll
