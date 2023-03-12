@@ -47,17 +47,13 @@ flutter pub get
 
 <br />
 
-<div align="center"  width="700px"  height="400px">
-
-<div  width="200px" > 
-
- <img width=300 height=400 src="https://user-images.githubusercontent.com/71903395/224539884-90374de5-3993-4ef7-92b6-c2ffdb2d1338.png"/> 
-</div>
-
-<div width="200px" > 
-
- <img  width=300 height=300 src="https://user-images.githubusercontent.com/71903395/224539929-5718eca9-1b8d-4d36-982d-5beb6ef2533e.gif"/> 
- </div>
+<div style="display: flex;">
+  <div style="float: left;">
+    <img width="300" height="400" src="https://user-images.githubusercontent.com/71903395/224539884-90374de5-3993-4ef7-92b6-c2ffdb2d1338.png"/>
+  </div>
+  <div style="float: left;">
+    <img width="300" height="300" src="https://user-images.githubusercontent.com/71903395/224539929-5718eca9-1b8d-4d36-982d-5beb6ef2533e.gif"/>
+  </div>
 </div>
 
 
