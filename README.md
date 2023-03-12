@@ -48,11 +48,9 @@ flutter pub get
 <br />
 
 
-<div style="display: flex;
-  justify-content: center;
-" align="center">
-  <img style="width: 300px; height: 400px; max-width: 100%;margin: 10px;border-radius: 20px" src="https://user-images.githubusercontent.com/71903395/224539884-90374de5-3993-4ef7-92b6-c2ffdb2d1338.png"/> 
-  <img style="width: 300px;height: 400px;max-width: 100%;display: inline-block;background-color: white;border-radius: 20px;background-color: white;margin-left: 50px" src="https://user-images.githubusercontent.com/71903395/224539929-5718eca9-1b8d-4d36-982d-5beb6ef2533e.gif"/> 
+<div class="container">
+  <img src="https://user-images.githubusercontent.com/71903395/224539884-90374de5-3993-4ef7-92b6-c2ffdb2d1338.png"/> 
+  <img src="https://user-images.githubusercontent.com/71903395/224539929-5718eca9-1b8d-4d36-982d-5beb6ef2533e.gif"/> 
 </div>
 
 
@@ -62,3 +60,4 @@ flutter pub get
 - web
 - Windows
 
+<link rel="stylesheet" href="style.css">
