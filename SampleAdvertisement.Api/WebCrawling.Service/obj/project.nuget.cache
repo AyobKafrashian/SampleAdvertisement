@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vO1/89KQURHSRyE2eCg7cIeYUr45ANMdrt7qx/CMm4MGDowdkguyauZf+HgBaWd9FrGqYvIX/YIP3ojyNvSm+g==",
+  "dgSpecHash": "Iwk+3Mw9wJPE+d6uEsjkpEkKSvtAULTWCKE2Pw463teZVIpfLRXZYTx1M+ej8uMcmQPTzd0DVpTvg1qVLb5vpg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Omega\\Desktop\\Desktop\\SampleAdvertisement Server\\SampleAdvertisement.Api\\WebCrawling.Service\\WebCrawling.Service.csproj",
+  "projectFilePath": "C:\\Users\\Omega\\Desktop\\Desktop\\SampleAdvertisement Server\\SampleAdvertisement\\SampleAdvertisement.Api\\WebCrawling.Service\\WebCrawling.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Omega\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512",
     "C:\\Users\\Omega\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"

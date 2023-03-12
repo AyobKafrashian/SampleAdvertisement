@@ -114,11 +114,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Omega\\Desktop\\Desktop\\SampleAdvertisement Server\\SampleAdvertisement.Api\\WebCrawling.Service\\WebCrawling.Service.csproj",
+      "projectUniqueName": "C:\\Users\\Omega\\Desktop\\Desktop\\SampleAdvertisement Server\\SampleAdvertisement\\SampleAdvertisement.Api\\WebCrawling.Service\\WebCrawling.Service.csproj",
       "projectName": "WebCrawling.Service",
-      "projectPath": "C:\\Users\\Omega\\Desktop\\Desktop\\SampleAdvertisement Server\\SampleAdvertisement.Api\\WebCrawling.Service\\WebCrawling.Service.csproj",
+      "projectPath": "C:\\Users\\Omega\\Desktop\\Desktop\\SampleAdvertisement Server\\SampleAdvertisement\\SampleAdvertisement.Api\\WebCrawling.Service\\WebCrawling.Service.csproj",
       "packagesPath": "C:\\Users\\Omega\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Omega\\Desktop\\Desktop\\SampleAdvertisement Server\\SampleAdvertisement.Api\\WebCrawling.Service\\obj\\",
+      "outputPath": "C:\\Users\\Omega\\Desktop\\Desktop\\SampleAdvertisement Server\\SampleAdvertisement\\SampleAdvertisement.Api\\WebCrawling.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Omega\\AppData\\Roaming\\NuGet\\NuGet.Config",

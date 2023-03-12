@@ -7,6 +7,8 @@ namespace WebCrawling.Services.Interfaces
 {
     public interface ICrawleringService
     {
-        Task<List<DivarDataResponse>> DivarCrawl(Uri url, string tag, string className);
+        Task<List<DataCrawlerResponse>> DivarSiteCrawl(Uri url, string tag, string className);
+        Task<List<DataCrawlerResponse>> KilidSiteCrawl(Uri url, string tag, string className);
+        Task<List<DataCrawlerResponse>> ShabeshSiteCrawl(Uri url, string tag, string className);
      }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y0b7qlzrNejmsn+atDnn1PMlJ5fzicexsRQiRaWnv0rryQo2LuUqmUMx1MhLt1lrOnChDhr+oj6RQDvTo1dcjw==",
+  "dgSpecHash": "jvjJlJoZ57MEQC58m02q4I7F/b/pm5Fs8F57/rdwU5VAjiRXsUUSqB64wjb3/wiBoxYaaoOTG+onWNTiG0U6cw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Omega\\Desktop\\Desktop\\SampleAdvertisement Server\\SampleAdvertisement.Api\\SampleAdvertisement.Api\\SampleAdvertisement.Api.csproj",
+  "projectFilePath": "C:\\Users\\Omega\\Desktop\\Desktop\\SampleAdvertisement Server\\SampleAdvertisement\\SampleAdvertisement.Api\\SampleAdvertisement.Api\\SampleAdvertisement.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Omega\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512",
     "C:\\Users\\Omega\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",

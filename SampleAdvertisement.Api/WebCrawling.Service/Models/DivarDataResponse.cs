@@ -2,9 +2,9 @@
 
 namespace WebCrawling.Models
 {
-    public class DivarDataResponse
+    public class DataCrawlerResponse
     {
-        public DivarDataResponse(string refrence = "Divar", string urlLink = "https://divar.ir")
+        public DataCrawlerResponse(string refrence , string urlLink)
         {
             this.Refrence = refrence;
             this.UrlLink = new Uri(urlLink);
